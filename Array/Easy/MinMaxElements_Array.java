@@ -1,6 +1,6 @@
 package Array.Easy;
 
-class Ques_1 {
+class MinMaxElements_Array {
 
     public static void minMaxElements(int arr[]) {
         int min = Integer.MAX_VALUE;
